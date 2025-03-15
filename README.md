@@ -4,4 +4,5 @@
 *   **Глобальное обновление (UPDATE):** `UPDATE table1 SET column1 = new value;` (Обновление значения указанного столбца для всех записей в таблице).
 *   **Условное обновление (UPDATE ... WHERE):** `UPDATE table1 SET column1=new_value, column2=new_value WHERE condition;` (Обновление значений указанных столбцов для записей, удовлетворяющих заданному условию).
 *   **Полное удаление (DELETE):** `DELETE FROM table;` (Удаление всех записей из таблицы).
-*   **Условное удаление (DELETE ... WHERE):** `DELETE FROM table WHERE condition;` (Удаление записей из таблицы, удовлетворяющих заданному условию) 
+*   **Условное удаление (DELETE ... WHERE):** `DELETE FROM table WHERE condition;` (Удаление записей из таблицы, удовлетворяющих заданному условию)
+*   https://metanit.com/sql/mysql/2.3.php
